@@ -5,7 +5,7 @@ import Smartphone from "./smartphone"
 import Topselling from "./topselling"
 import Project from "./projects"
 import Audio from "./audio"
-import Newarrivals from "./newarrivals"
+import Newarrivals from "./Newarrivals"
 import ProductPage from "./product"
 
 
